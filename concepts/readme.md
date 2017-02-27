@@ -49,7 +49,7 @@ Once a bill has a sponsor and the support of some of the Representatives, it is 
 
 ## The Bill Is Introduced
  
-### The Hopper
+### [The Hopper](https://github.com/Nagle/uscode/blob/master/concepts/Hopper.md)
 In the U.S. House of Representatives, a bill is introduced when it is placed in the hopper—
 a special box on the side of the clerk’s desk.
 Only Representatives can introduce bills in the U.S. House of Representatives.
