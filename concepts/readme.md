@@ -13,11 +13,14 @@ class Bill
 }
 class Law {}
 
+let Actions = [
+BILL_APPROVED_BY_USHOR,
+BILL_APPROVED_BY_USS,
+BILL_APPROVED_BY_POTUS,
+]
+
 ```
 
-k
-—————
-—————
 # How a Bill Becomes a Law
 _kids.clerk.house.gov_
 
